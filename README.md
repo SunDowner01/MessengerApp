@@ -1,5 +1,5 @@
 # MessengerApp
-<b>This is the basic app that lets you send a message throught another app.<br>
+<b>This is the basic app that lets you send a message through another app.<br>
 ![Alt text] (https://github.com/SunDowner01/MessengerApp/blob/master/ScreenShots/Capture.PNG)
 
 <b>Here is a demonstration of the text field being used to create a message to send.<br>
